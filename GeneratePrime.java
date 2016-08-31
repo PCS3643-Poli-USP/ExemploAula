@@ -16,6 +16,8 @@ public class GeneratePrime {
 		return isPrime;
 	}
 
+	//Segundo comentário
+
 	public static void main(String[] args) {
 
         int i, j;
