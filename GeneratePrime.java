@@ -1,4 +1,6 @@
 
+//Só um comentário
+
 public class GeneratePrime {
 
 	private boolean isPrimeMethod(int i) {
